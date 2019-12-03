@@ -2,8 +2,7 @@
 # Gísli og Lárus
 
 ### við völdum stýrikerfið ubuntu fyrst að við vorum svo vanir í því, og hugsuðum því að það væri léttara að vinna í vélinni sem við þekktum aðeins frekar enn að læra nýtt stýrikerfi fyrir þetta eina verkefni.
-### við leituðum á netinu eftir upplýsingum um vélirnar en leist okkur ekkert á þær. einnig kíktum við líka á blogs um afhverju þessi vél væri betri
-### enn hin, og gerðum það við allar vélarnar á listanum.
+### við leituðum á netinu eftir upplýsingum um vélirnar en leist okkur ekkert á þær. einnig kíktum við líka á blogs um afhverju þessi vél væri betri enn hin, og gerðum það við allar vélarnar á listanum.
 ### í endanum fórum við aftur að ubuntu vélinni því okkur leist ekki neitt sérstaklega vel á hinar vélirnar
 ### hinar vélirnar sem við kíktum á voru: 
 ## - Ubuntu, https://ubuntu.com
